@@ -5,7 +5,8 @@
  "author": "Frae Valdehuesa <frae@codefor.asia>",
  "main": "server.js",
  "scripts": {
-  "start": "node server.js"
+  "start": "node server.js",
+  "test": "jshint server.js"
  },
  "dependencies": {
   "express": "^4.17.1",
