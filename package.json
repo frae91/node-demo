@@ -9,7 +9,7 @@
   "test": "jshint server.js"
  },
  "dependencies": {
-  "express": "^4.17.1",
+  "express": "^4.17.3",
   "jshint": "^2.10.2"
  }
 }
